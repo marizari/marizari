@@ -44,7 +44,6 @@
   <img align="center" alt="GitHub contribution grid snake animation" src="https://raw.githubusercontent.com/marizari/marizari/output/github-contribution-grid-snake.svg" />
 </picture> ainda não deu certo--->
 
----
 
 <div align="center" style="display:flex; gap:10px; justify-content:center; flex-wrap: wrap;">
   <a href="gmail.com" target="_blank">
