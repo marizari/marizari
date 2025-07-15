@@ -52,7 +52,7 @@
   <a href="https://www.instagram.com/marizari_?igsh=MTl2M3ZxZzgzMGJ0OQ==" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-050f2c?style=for-the-badge&logo=instagram&logoColor=fff" alt="Instagram" />
   </a>
-  <a href="https://discord.gg/3ZuP7KrB" target="_blank">
+  <a href="https://discord.gg/fkUM4Smg" target="_blank">
     <img src="https://img.shields.io/badge/Discord-050f2c?style=for-the-badge&logo=discord&logoColor=fff" alt="Discord" />
   </a>
   <a href="https://www.linkedin.com/in/maria-eduarda-pacheco-delazari-08b10a367?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="_blank">
