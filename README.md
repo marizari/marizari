@@ -30,7 +30,7 @@
 <h1 align="center">Tecnologias e ferramentas que estou me desenvolvendo</h1> 
 
 <div align="center" style="display: flex; justify-content: center; align-items: center; gap: 10px;">
-  <img src="https://skillicons.dev/icons?i=html,css,js,php,nodejs,git,github,figma,react,tailwind,python,n8n" height="40" alt="Tech icons" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,php,laravel,nodejs,git,github,figma,react,tailwind,python,n8n" height="40" alt="Tech icons" />
 </div>
  <img src="https://cdn.worldvectorlogo.com/logos/n8n-io-icon.svg" alt="n8n logo" height="40" />
 </div>
