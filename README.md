@@ -106,7 +106,7 @@
     height="154"
     align="center"
     alt="GitHub Streak"
-    src="https://github-readme-streak-stats.herokuapp.com?user=marizari&theme=jolly&card_width=885&hide_border=true"
+    src="https://streak-stats.demolab.com?user=marizari&theme=jolly&card_width=885&hide_border=true"
   />
 
 </div>
