@@ -46,16 +46,16 @@
 
 
 <div align="center" style="display:flex; gap:10px; justify-content:center; flex-wrap: wrap;">
-  <a href="gmail.com" target="_blank">
+  <a href="mailto:marizari2006@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-050f2c?style=for-the-badge&logo=gmail&logoColor=fff" alt="Gmail" />
   </a>
-  <a href="https://www.instagram.com/marizari_?igsh=MTl2M3ZxZzgzMGJ0OQ==" target="_blank">
+  <a href="https://www.instagram.com/marizari_?igsh=MTl2M3ZxZzgzMGJ0OQ==">
     <img src="https://img.shields.io/badge/Instagram-050f2c?style=for-the-badge&logo=instagram&logoColor=fff" alt="Instagram" />
   </a>
-  <a href="https://discord.gg/fkUM4Smg" target="_blank">
+  <a href="https://discord.gg/fkUM4Smg">
     <img src="https://img.shields.io/badge/Discord-050f2c?style=for-the-badge&logo=discord&logoColor=fff" alt="Discord" />
   </a>
-  <a href="https://www.linkedin.com/in/maria-eduarda-pacheco-delazari-08b10a367?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="_blank">
+  <a href="https://www.linkedin.com/in/maria-eduarda-pacheco-delazari-08b10a367">
     <img src="https://img.shields.io/badge/LinkedIn-050f2c?style=for-the-badge&logo=linkedin&logoColor=fff" alt="LinkedIn" />
   </a>
 </div>
