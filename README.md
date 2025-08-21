@@ -46,7 +46,7 @@
 
 
 <div align="center" style="display:flex; gap:10px; justify-content:center; flex-wrap: wrap;">
-  <a href="mailto:marizari2006@gmail.com">
+  <a href="mailto:marizari2006@gmail.com?subject=Contato+via+GitHub&body=Corpo+da+mensagem:+Ol%C3%A1,+Maria+Eduarda!++Encontrei+seu+perfil+no+GitHub+e+gostaria+de+entrar+em+contato+para+uma+poss%C3%ADvel+conversa.++Atenciosamente,+%5BSeu+nome%5D">
     <img src="https://img.shields.io/badge/Gmail-050f2c?style=for-the-badge&logo=gmail&logoColor=fff" alt="Gmail" />
   </a>
   <a href="https://www.instagram.com/marizari_?igsh=MTl2M3ZxZzgzMGJ0OQ==">
