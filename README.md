@@ -27,10 +27,13 @@
 
 ---
 
+<!--lenguagens-->
+
 <h1 align="center">Tecnologias e ferramentas que estou me desenvolvendo</h1> 
 
 <div align="center" style="display: flex; justify-content: center; align-items: center; gap: 10px;">
-  <img src="https://skillicons.dev/icons?i=html,css,js,php,laravel,nodejs,git,github,figma,react,tailwind,python,n8n" height="40" alt="Tech icons" />
+  <!--<img src="https://skillicons.dev/icons?i=html,css,js,php,laravel,nodejs,git,github,figma,react,tailwind,python,n8n" height="40" alt="Tech icons" />-->
+  <img src="https://skillicons.dev/icons?i=html,css,js,php,laravel,nodejs,git,github,figma,react,tailwind" height="40" alt="Tech icons" />
 </div>
  <img src="https://cdn.worldvectorlogo.com/logos/n8n-io-icon.svg" alt="n8n logo" height="40" />
 </div>
@@ -44,6 +47,8 @@
   <img align="center" alt="GitHub contribution grid snake animation" src="https://raw.githubusercontent.com/marizari/marizari/output/github-contribution-grid-snake.svg" />
 </picture> ainda não deu certo--->
 
+
+<!--SOCIAL MEDIA-->
 
 <div align="center" style="display:flex; gap:10px; justify-content:center; flex-wrap: wrap;">
   <a href="mailto:marizari2006@gmail.com?subject=Contato+via+GitHub&body=Corpo+da+mensagem:+Ol%C3%A1,+Maria+Eduarda!++Encontrei+seu+perfil+no+GitHub+e+gostaria+de+entrar+em+contato+para+uma+poss%C3%ADvel+conversa.++Atenciosamente,+%5BSeu+nome%5D">
