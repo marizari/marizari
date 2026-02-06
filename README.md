@@ -100,12 +100,12 @@ Stripe • PostgreSQL • Firebase
 <br>
 
 <p align="center">
-  <a href="mailto:marizari2006@gmail.com">
+  <a href="mailto:m.delazari.dev@gmail.com">
     <img 
       width="120"
       src="https://img.shields.io/badge/Gmail-0d1117?style=for-the-badge&logo=gmail&logoColor=8B5CF6"/>
   </a>
-  <a href="https://www.linkedin.com/in/maria-eduarda-pacheco-delazari-08b10a367">
+  <a href="https://www.linkedin.com/in/maria-delazari-08b10a367">
     <img 
       width="120";
       src="https://img.shields.io/badge/LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=8B5CF6"/>
