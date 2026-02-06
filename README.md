@@ -12,7 +12,10 @@
   <img src="https://imgur.com/SGR1Rrh.gif" width="180" alt="Gatinho animado" />
 </div>
 
-<<div align="center" width="100%"> <img src="https://readme-typing-svg.demolab.com?font=Iosevka&color=6D28D9&width=900&size=23&center=true&vCenter=true&lines=Enquanto+estamos+vivos,+carregamos+em+n%C3%B3s+um+futuro+de+possibilidades" alt="Typing SVG"/> </div> 
+<div align="center" width="100%">
+  <img src="https://readme-typing-svg.demolab.com?font=Iosevka&color=6D28D9&width=900&size=23&center=true&vCenter=true&lines=Enquanto+estamos+vivos,+carregamos+em+n%C3%B3s+um+futuro+de+possibilidades" alt="Typing SVG"/>
+</div>
+
 
 <p align="center" style="color:#6D28D9;"> <i>— Matt Haig, <span style="opacity:0.9">A Biblioteca da Meia-Noite</span></i> </p>
 
@@ -60,7 +63,7 @@ Stripe • PostgreSQL • Firebase
 
   <div align="center">
     <img
-      width="900"
+      width="850"
       src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=marizari&theme=tokyonight"
       alt="Profile Details"
     />
