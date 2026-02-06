@@ -45,21 +45,6 @@ Stripe • PostgreSQL • Firebase
 
   <br><br>
 
- <!--  <div align="center">
-    <img
-     width="550"
-      src="https://github-readme-stats-fast.vercel.app/api?username=marizari&show_icons=true&hide_border=true&bg_color=0D1117&title_color=F472B6&icon_color=EC4899&text_color=FCE7F3"
-    />
-    <img
-      width="400"
-      src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=marizari&layout=compact&hide_border=true&bg_color=0D1117&title_color=EC4899&text_color=FBCFE8"
-    />
-  </div> 
-  
-
-  <br>
-  <hr>
-  <br> -->
 
   <div align="center">
     <img
@@ -73,11 +58,26 @@ Stripe • PostgreSQL • Firebase
   <hr>
   <br> 
 
- <div align="center">
+  <div align="center">
     <img
         width="640"
       src="https://streak-stats.demolab.com?user=marizari&theme=dark&hide_border=true&ring=A855F7&fire=C084FC&currStreakLabel=8B5CF6&sideLabels=8B5CF6&dates=E9D5FF&background=0D1117"
     />
+</div> 
+
+  <br>
+  <hr>
+  <br> 
+
+  <div align="center">
+  <img
+    width="550"
+    src="https://github-readme-stats-fast.vercel.app/api?username=marizari&show_icons=true&hide_border=true&bg_color=0D1117&title_color=8B5CF6&icon_color=A855F7&text_color=E9D5FF"
+  />
+  <img
+    width="400"
+    src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=marizari&layout=compact&hide_border=true&bg_color=0D1117&title_color=6D28D9&text_color=DDD6FE"
+  />
 </div>
 
   <br>
