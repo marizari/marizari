@@ -69,7 +69,7 @@ Stripe • PostgreSQL • Firebase
   <hr>
   <br> 
 
-  <div align="center">
+  <!-- <div align="center">
   <img
     width="550"
     src="https://github-readme-stats-fast.vercel.app/api?username=marizari&show_icons=true&hide_border=true&bg_color=0D1117&title_color=8B5CF6&icon_color=A855F7&text_color=E9D5FF"
@@ -82,7 +82,7 @@ Stripe • PostgreSQL • Firebase
 
   <br>
   <hr>
-  <br> 
+  <br> -->
 
   <div align="center">
     <img
