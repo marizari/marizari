@@ -84,11 +84,12 @@ Stripe • PostgreSQL • Firebase
   <hr>
   <br> -->
 
-  <div align="center">
-    <img
-      src="https://github-readme-activity-graph.vercel.app/graph?username=MariaDelazaribg_color=0D1117&color=8B5CF6&line=A855F7&point=C4B5FD&hide_border=true"
-    />
-  </div>
+<div align="center">
+  <img
+    src="https://github-readme-activity-graph.vercel.app/graph?username=MariaDelazari&bg_color=0D1117&color=8B5CF6&line=A855F7&point=C4B5FD&hide_border=true"
+  />
+</div>
+
 
   <br>
 
