@@ -49,7 +49,7 @@ Stripe • PostgreSQL • Firebase
   <div align="center">
     <img
       width="850"
-      src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=marizari&theme=tokyonight"
+      src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MariaDelazari&theme=tokyonight"
       alt="Profile Details"
     />
   </div>
@@ -61,7 +61,7 @@ Stripe • PostgreSQL • Firebase
   <div align="center">
     <img
         width="640"
-      src="https://streak-stats.demolab.com?user=marizari&theme=dark&hide_border=true&ring=A855F7&fire=C084FC&currStreakLabel=8B5CF6&sideLabels=8B5CF6&dates=E9D5FF&background=0D1117"
+      src="https://streak-stats.demolab.com?user=MariaDelazari&theme=dark&hide_border=true&ring=A855F7&fire=C084FC&currStreakLabel=8B5CF6&sideLabels=8B5CF6&dates=E9D5FF&background=0D1117"
     />
 </div> 
 
@@ -72,11 +72,11 @@ Stripe • PostgreSQL • Firebase
   <!-- <div align="center">
   <img
     width="550"
-    src="https://github-readme-stats-fast.vercel.app/api?username=marizari&show_icons=true&hide_border=true&bg_color=0D1117&title_color=8B5CF6&icon_color=A855F7&text_color=E9D5FF"
+    src="https://github-readme-stats-fast.vercel.app/api?username=MariaDelazari&show_icons=true&hide_border=true&bg_color=0D1117&title_color=8B5CF6&icon_color=A855F7&text_color=E9D5FF"
   />
   <img
     width="400"
-    src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=marizari&layout=compact&hide_border=true&bg_color=0D1117&title_color=6D28D9&text_color=DDD6FE"
+    src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=MariaDelazari&layout=compact&hide_border=true&bg_color=0D1117&title_color=6D28D9&text_color=DDD6FE"
   />
 </div>
 
@@ -86,7 +86,7 @@ Stripe • PostgreSQL • Firebase
 
   <div align="center">
     <img
-      src="https://github-readme-activity-graph.vercel.app/graph?username=marizari&bg_color=0D1117&color=8B5CF6&line=A855F7&point=C4B5FD&hide_border=true"
+      src="https://github-readme-activity-graph.vercel.app/graph?username=MariaDelazaribg_color=0D1117&color=8B5CF6&line=A855F7&point=C4B5FD&hide_border=true"
     />
   </div>
 
