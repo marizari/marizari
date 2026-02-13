@@ -25,7 +25,7 @@
 
 <p align="center">
   <img 
-    src="https://skillicons.dev/icons?i=js,ts,react,tailwind,redux,nextjs,nodejs,nestjs,electron,bootstrap,python,postgresql,firebase"
+    src="https://skillicons.dev/icons?i=js,ts,react,tailwind,redux,nextjs,nodejs,nestjs,electron,bootstrap,php,laravel,python,postgresql,firebase"
     height="52"
   />
 </p>
