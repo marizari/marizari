@@ -116,7 +116,7 @@ Stripe • PostgreSQL • Firebase
       width="160";
       src="https://img.shields.io/badge/Instagram-0d1117?style=for-the-badge&logo=instagram&logoColor=8B5CF6"/>
   </a>
-  <a href="https://discord.gg/pMhAaJjv">
+  <a href="https://discord.gg/7vk67nyG">
     <img 
       width="140";
       src="https://img.shields.io/badge/Discord-0d1117?style=for-the-badge&logo=discord&logoColor=8B5CF6"/>
